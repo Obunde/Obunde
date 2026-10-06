@@ -10,11 +10,9 @@ I build end-to-end Web3 systems, from Solidity smart contracts to the APIs and d
 
 **Mavuno Pay**: on-chain USDC escrow and supply-chain traceability on Base, linking M-Pesa payments to smart contracts through Coinbase CDP server wallets. (Private repo, demo available on request.)
 
-**Web3 explorations**: Rust for Web3, Cairo on Starknet, and the Aminia dApp.
-
 ### Tech stack
 
-Solidity · Hardhat · viem · web3.py · Rust · Cairo · Coinbase CDP · Base
+Solidity · Hardhat · viem · web3.py · Rust · Coinbase CDP · Base
 
 FastAPI · Node.js · Next.js · React · TypeScript · Postgres
 
